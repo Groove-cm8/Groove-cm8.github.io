@@ -1,0 +1,16 @@
+[
+	{
+		"id": 617172172,
+		"online": false,
+		"number": 1,
+		"first_name": "FREPSE",
+		"last_name": "Соколов"
+	},
+	{
+		"id": 622374724,
+		"online": true,
+		"number": 2,
+		"first_name": "Кирилл",
+		"last_name": "Бойков"
+	}
+]
